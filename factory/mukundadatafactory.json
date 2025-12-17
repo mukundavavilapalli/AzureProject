@@ -1,0 +1,9 @@
+{
+	"name": "mukundadatafactory",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d6d218d8-76d4-48c4-aa4d-9bceff3480c0",
+		"tenantId": "3ada1ef0-98ac-4033-9701-d9bc817c2e03"
+	}
+}
